@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="SampleQG.DuplicationQuestion"/>
+      <class name="SampleQG.AskCheckFeed"/>
+      <class name="SampleQG.AskAnswerDisLike"/>
+      <class name="SampleQG.askQuestionLike"/>
+      <class name="SampleQG.RegisterNewUser"/>
+      <class name="SampleQG.RegisterRandomNewUser"/>
+      <class name="SampleQG.VerifyNewComment"/>
+      <class name="SampleQG.VerifyNotification"/>
+      <class name="SampleQG.AskAnswerCheckFeed"/>
+      <class name="SampleQG.FollowerFollowee"/>
+      <class name="SampleQG.AskDelete"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

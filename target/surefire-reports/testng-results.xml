@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="367323" started-at="2021-01-07T23:08:01Z" finished-at="2021-01-07T23:14:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="367323" started-at="2021-01-07T23:08:01Z" finished-at="2021-01-07T23:14:08Z">
+      <class name="SampleQG.AskAnswerDisLike">
+        <test-method status="PASS" signature="AskAnswerDisLikeTest()[pri:0, instance:SampleQG.AskAnswerDisLike@735f7ae5]" name="AskAnswerDisLikeTest" duration-ms="37711" started-at="2021-01-07T23:09:40Z" finished-at="2021-01-07T23:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AskAnswerDisLikeTest -->
+      </class> <!-- SampleQG.AskAnswerDisLike -->
+      <class name="SampleQG.VerifyNotification">
+        <test-method status="PASS" signature="VerifyNotificationTest()[pri:0, instance:SampleQG.VerifyNotification@62043840]" name="VerifyNotificationTest" duration-ms="30390" started-at="2021-01-07T23:11:40Z" finished-at="2021-01-07T23:12:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyNotificationTest -->
+      </class> <!-- SampleQG.VerifyNotification -->
+      <class name="SampleQG.VerifyNewComment">
+        <test-method status="PASS" signature="VerifyNewCommenTest()[pri:0, instance:SampleQG.VerifyNewComment@246ae04d]" name="VerifyNewCommenTest" duration-ms="20076" started-at="2021-01-07T23:11:20Z" finished-at="2021-01-07T23:11:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyNewCommenTest -->
+      </class> <!-- SampleQG.VerifyNewComment -->
+      <class name="SampleQG.RegisterRandomNewUser">
+        <test-method status="PASS" signature="RegisterRandomNewUserTest()[pri:0, instance:SampleQG.RegisterRandomNewUser@2c6a3f77]" name="RegisterRandomNewUserTest" duration-ms="9075" started-at="2021-01-07T23:11:10Z" finished-at="2021-01-07T23:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterRandomNewUserTest -->
+      </class> <!-- SampleQG.RegisterRandomNewUser -->
+      <class name="SampleQG.RegisterNewUser">
+        <test-method status="PASS" signature="RegisterNewUserTest()[pri:0, instance:SampleQG.RegisterNewUser@1324409e]" name="RegisterNewUserTest" duration-ms="9186" started-at="2021-01-07T23:11:01Z" finished-at="2021-01-07T23:11:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterNewUserTest -->
+      </class> <!-- SampleQG.RegisterNewUser -->
+      <class name="SampleQG.askQuestionLike">
+        <test-method status="PASS" signature="askAnswerLikeTest()[pri:0, instance:SampleQG.askQuestionLike@180bc464]" name="askAnswerLikeTest" duration-ms="43659" started-at="2021-01-07T23:10:18Z" finished-at="2021-01-07T23:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- askAnswerLikeTest -->
+      </class> <!-- SampleQG.askQuestionLike -->
+      <class name="SampleQG.AskAnswerCheckFeed">
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.AskAnswerCheckFeed@5315b42e]" name="first" is-config="true" duration-ms="3483" started-at="2021-01-07T23:08:01Z" finished-at="2021-01-07T23:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.AskAnswerDisLike@735f7ae5]" name="first" is-config="true" duration-ms="2829" started-at="2021-01-07T23:08:04Z" finished-at="2021-01-07T23:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.AskCheckFeed@17550481]" name="first" is-config="true" duration-ms="2816" started-at="2021-01-07T23:08:07Z" finished-at="2021-01-07T23:08:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.AskDelete@5d624da6]" name="first" is-config="true" duration-ms="3289" started-at="2021-01-07T23:08:10Z" finished-at="2021-01-07T23:08:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.DuplicationQuestion@783e6358]" name="first" is-config="true" duration-ms="3420" started-at="2021-01-07T23:08:13Z" finished-at="2021-01-07T23:08:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.FollowerFollowee@2ef9b8bc]" name="first" is-config="true" duration-ms="3380" started-at="2021-01-07T23:08:17Z" finished-at="2021-01-07T23:08:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.RegisterNewUser@1324409e]" name="first" is-config="true" duration-ms="3561" started-at="2021-01-07T23:08:20Z" finished-at="2021-01-07T23:08:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.RegisterRandomNewUser@2c6a3f77]" name="first" is-config="true" duration-ms="3785" started-at="2021-01-07T23:08:23Z" finished-at="2021-01-07T23:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.VerifyNewComment@246ae04d]" name="first" is-config="true" duration-ms="3532" started-at="2021-01-07T23:08:27Z" finished-at="2021-01-07T23:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.VerifyNotification@62043840]" name="first" is-config="true" duration-ms="3589" started-at="2021-01-07T23:08:31Z" finished-at="2021-01-07T23:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleQG.askQuestionLike@180bc464]" name="first" is-config="true" duration-ms="3656" started-at="2021-01-07T23:08:34Z" finished-at="2021-01-07T23:08:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="AskAnswerCheckFeedTest()[pri:0, instance:SampleQG.AskAnswerCheckFeed@5315b42e]" name="AskAnswerCheckFeedTest" duration-ms="43678" started-at="2021-01-07T23:12:10Z" finished-at="2021-01-07T23:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AskAnswerCheckFeedTest -->
+      </class> <!-- SampleQG.AskAnswerCheckFeed -->
+      <class name="SampleQG.AskCheckFeed">
+        <test-method status="PASS" signature="AskCheckFeedTest()[pri:0, instance:SampleQG.AskCheckFeed@17550481]" name="AskCheckFeedTest" duration-ms="28518" started-at="2021-01-07T23:09:11Z" finished-at="2021-01-07T23:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AskCheckFeedTest -->
+      </class> <!-- SampleQG.AskCheckFeed -->
+      <class name="SampleQG.DuplicationQuestion">
+        <test-method status="PASS" signature="DuplicationQuestionTest()[pri:0, instance:SampleQG.DuplicationQuestion@783e6358]" name="DuplicationQuestionTest" duration-ms="33320" started-at="2021-01-07T23:08:38Z" finished-at="2021-01-07T23:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DuplicationQuestionTest -->
+      </class> <!-- SampleQG.DuplicationQuestion -->
+      <class name="SampleQG.FollowerFollowee">
+        <test-method status="PASS" signature="FollowerFolloweeTest()[pri:0, instance:SampleQG.FollowerFollowee@2ef9b8bc]" name="FollowerFolloweeTest" duration-ms="37395" started-at="2021-01-07T23:12:54Z" finished-at="2021-01-07T23:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FollowerFolloweeTest -->
+      </class> <!-- SampleQG.FollowerFollowee -->
+      <class name="SampleQG.AskDelete">
+        <test-method status="PASS" signature="AskDeleteVerifyTest()[pri:0, instance:SampleQG.AskDelete@5d624da6]" name="AskDeleteVerifyTest" duration-ms="36933" started-at="2021-01-07T23:13:31Z" finished-at="2021-01-07T23:14:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AskDeleteVerifyTest -->
+      </class> <!-- SampleQG.AskDelete -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
